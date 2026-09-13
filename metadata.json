@@ -1,0 +1,6 @@
+{
+  "name": "Swasthya Setu",
+  "description": "Real-time hospital management and patient coordination platform for live bed tracking, OPD token queues, and staff availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
